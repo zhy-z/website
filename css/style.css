@@ -563,6 +563,7 @@ label {
 	color: rgba(255, 255, 255, 1);
 	margin-bottom: 10px;
 	display: block;
+	font-weight: 900;
 }
 #contact .contact-item i.fa {
 	margin-right: 10px;
@@ -612,3 +613,10 @@ label {
 		margin: 50px 0;
 	}
 }
+
+
+.moving-element {
+	display: flex;
+	justify-content: space-between;
+}
+
